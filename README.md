@@ -1,6 +1,6 @@
-# Playground 
+# Basic Calculator Smart Contract on Algorand Blockchain 
 
-This project has been generated using AlgoKit to help you quickly get started with a basic playground for experimenting with Beaker smart contracts against a [LocalNet](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/features/localnet.md) network.
+This project has been generated using AlgoKit.
 
 See below for default getting started instructions.
 
